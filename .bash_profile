@@ -2,7 +2,7 @@
 # The original version is saved in .bash_profile.pysave
 PATH="/Library/Frameworks/Python.framework/Versions/3.6/bin:${PATH}"
 export PATH
-PS1="🐳  "
+PS1="🐳 \T \w$ "
 
 # Setting PATH for Python 3.7
 # The original version is saved in .bash_profile.pysave
