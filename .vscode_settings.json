@@ -1,0 +1,22 @@
+{
+    "workbench.colorTheme": "Cobalt2",
+    "editor.fontFamily": "Menlo, Space Mono, Monaco, Courier New, monospace",
+    "editor.fontSize": 17,
+    "editor.lineHeight": 25,
+    "editor.letterSpacing": 0.5,
+    "files.trimTrailingWhitespace": true,
+    "editor.fontWeight": "400",
+    "prettier.eslintIntegration": true,
+    "editor.cursorStyle": "line",
+    "editor.cursorWidth": 5,
+    "editor.cursorBlinking": "solid",
+    "editor.renderWhitespace": "all",
+    "editor.fontVariations": false,
+    "terminal.integrated.fontSize": 15,
+    "vs-kubernetes": {
+        "vscode-kubernetes.helm-path-mac": "/Users/gadrer/.vs-kubernetes/tools/helm/darwin-amd64/helm",
+        "vscode-kubernetes.kubectl-path-mac": "/Users/gadrer/.vs-kubernetes/tools/kubectl/kubectl",
+        "vscode-kubernetes.minikube-path-mac": "/Users/gadrer/.vs-kubernetes/tools/minikube/darwin-amd64/minikube"
+    },
+    
+}
