@@ -14,9 +14,9 @@
     "editor.fontVariations": false,
     "terminal.integrated.fontSize": 15,
     "vs-kubernetes": {
-        "vscode-kubernetes.helm-path-mac": "/Users/gadrer/.vs-kubernetes/tools/helm/darwin-amd64/helm",
-        "vscode-kubernetes.kubectl-path-mac": "/Users/gadrer/.vs-kubernetes/tools/kubectl/kubectl",
-        "vscode-kubernetes.minikube-path-mac": "/Users/gadrer/.vs-kubernetes/tools/minikube/darwin-amd64/minikube"
+        "vscode-kubernetes.helm-path-mac": "/Users/alias/.vs-kubernetes/tools/helm/darwin-amd64/helm",
+        "vscode-kubernetes.kubectl-path-mac": "/Users/alias/.vs-kubernetes/tools/kubectl/kubectl",
+        "vscode-kubernetes.minikube-path-mac": "/Users/alias/.vs-kubernetes/tools/minikube/darwin-amd64/minikube"
     },
     
 }
